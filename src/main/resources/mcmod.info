@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "spiderdropalert",
+    "name": "RNG Carried Bald",
+    "description": "Categorized Slayer/Fishing HUDs, F7/M7 outlines, deployable timers, and Fakepixel catch notifiers.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Arena.ai"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
