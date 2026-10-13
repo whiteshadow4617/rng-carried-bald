@@ -1,0 +1,16 @@
+# Gradle/Forge build outputs and local caches
+.gradle/
+build/
+run/
+logs/
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local JVM/Forge logs
+*.log
+hs_err_pid*
